@@ -1,5 +1,5 @@
 # setup
 
 ```
-curl -fso - https://raw.githubusercontent.com/k9i/setup/main/setup_dot.sh | bash -e
+curl -fso - https://raw.githubusercontent.com/k9i/setup/main/launch_dot.sh | bash -e
 ```
